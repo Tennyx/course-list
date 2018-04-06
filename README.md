@@ -30,3 +30,4 @@ Repository of all courses taken in programming journey.
 ## Lynda.com
 * [Python GUI Development with Tkinter](https://www.lynda.com/Tkinter-tutorials/Python-GUI-Development-Tkinter/163607-2.html)
 * [Programming Foundations - Real World Examples](https://www.lynda.com/Python-tutorials/Programming-Fundamentals-Real-World/418249-2.html)
+* [Web Development Foundations: Web Technologies](https://www.lynda.com/Web-Foundations-tutorials/Web-Technology-Fundamentals/158666-2.html)
