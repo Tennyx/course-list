@@ -22,6 +22,7 @@ Repository of all courses taken in programming journey.
 
 ## Youtube
 * [Harvard CS50](https://www.youtube.com/playlist?list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu)
+* [Harvard CSCI E-1](https://www.youtube.com/playlist?list=PL46_gdBNZZpSzhtequjDYYU80yU2KZoPl)
 * [Learn to Build Scalable Web Applications](https://www.youtube.com/watch?v=K70ebnKG-C4&list=PLdqn_b7Fi_PSKAeO5F8wmA3YmXOtL5wAA)
 * [Sentdex - Django Web Development with Python](https://www.youtube.com/watch?v=FNQxxpM1yOs&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
 * [thenewboston - Django Tutorial for Beginners](https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
