@@ -26,6 +26,7 @@ Repository of all courses taken in programming journey.
 * [Learn to Build Scalable Web Applications](https://www.youtube.com/watch?v=K70ebnKG-C4&list=PLdqn_b7Fi_PSKAeO5F8wmA3YmXOtL5wAA)
 * [Sentdex - Django Web Development with Python](https://www.youtube.com/watch?v=FNQxxpM1yOs&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
 * [thenewboston - Django Tutorial for Beginners](https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
+* [Raspberry Pi and Python Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDesV8WWHLLXW_avmTzHmJLv)
 
 ## Lynda.com
 * [Python GUI Development with Tkinter](https://www.lynda.com/Tkinter-tutorials/Python-GUI-Development-Tkinter/163607-2.html)
