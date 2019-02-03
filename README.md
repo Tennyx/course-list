@@ -33,5 +33,8 @@ Repository of all courses taken in programming journey.
 * [Programming Foundations - Real World Examples](https://www.lynda.com/Python-tutorials/Programming-Fundamentals-Real-World/418249-2.html)
 * [Web Development Foundations: Web Technologies](https://www.lynda.com/Web-Foundations-tutorials/Web-Technology-Fundamentals/158666-2.html)
 
+## Apple
+* [Intro to App Development with Swift](https://itunes.apple.com/us/book/intro-to-app-development-with-swift/id1118575552?mt=11)
+
 ## Other
 * [Handmade TCP/IP Packets](https://inc0x0.com/tcp-ip-packets-introduction/)
