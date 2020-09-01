@@ -36,5 +36,9 @@ Repository of all courses taken in programming journey.
 ## Apple
 * [Intro to App Development with Swift](https://itunes.apple.com/us/book/intro-to-app-development-with-swift/id1118575552?mt=11)
 
+## Okta
+* [Okta Essentials](https://www.okta.com/training/okta-essentials)
+* [Okta Customer Identity for Developers (formerly 'Platform')](https://www.okta.com/training/okta-customer-identity-for-developers-formerly-platform)
+
 ## Other
 * [Handmade TCP/IP Packets](https://inc0x0.com/tcp-ip-packets-introduction/)
